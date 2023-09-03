@@ -19,9 +19,10 @@ h1{
     font-size: 60px;
 }
 h2{
-     color: black;
-     font-family: "Adobe Devanagari";
-     font-size: 45px;
+    color: black;
+    font-family: "Adobe Devanagari";
+    text-indent: 50px;
+    font-size: 45px;
 }
 p{
     color: black;
