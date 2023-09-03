@@ -13,3 +13,18 @@ img {
 .text {
     font-size: 70px;
 }
+h1{
+    color: black;
+    font-family: "Adobe Devanagari";
+    font-size: 60px;
+}
+h2{
+     color: black;
+     font-family: "Adobe Devanagari";
+     font-size: 45px;
+}
+p{
+    color: black;
+    font-family: "Adobe Devanagari";
+    font-size: 25px;
+}
